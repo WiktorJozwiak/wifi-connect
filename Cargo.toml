@@ -6,7 +6,7 @@ description = "Easy WiFi setup for Linux devices from your mobile phone or lapto
 publish = false
 
 [dependencies]
-network_manager = { path = "../network_manager" }
+network_manager = { path = "network-manager", package = "network-manager" }
 clap = "2.24"
 iron = "0.6"
 iron-cors = "0.8"
