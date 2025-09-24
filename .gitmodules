@@ -1,3 +1,0 @@
-[submodule "network-manager"]
-	path = network-manager
-	url = https://github.com/balena-io-modules/network-manager.git
